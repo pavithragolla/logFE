@@ -1,0 +1,68 @@
+[
+  {
+    "name": "AllTags",
+    "path": "/AllTags",
+    "component": "C:\\\\Users\\\\Nspira\\\\Desktop\\\\gg\\\\pages\\\\AllTags.vue",
+    "chunkName": "pages/AllTags"
+  },
+  {
+    "name": "AllUsers",
+    "path": "/AllUsers",
+    "component": "C:\\\\Users\\\\Nspira\\\\Desktop\\\\gg\\\\pages\\\\AllUsers.vue",
+    "chunkName": "pages/AllUsers"
+  },
+  {
+    "name": "CreateTag",
+    "path": "/CreateTag",
+    "component": "C:\\\\Users\\\\Nspira\\\\Desktop\\\\gg\\\\pages\\\\CreateTag.vue",
+    "chunkName": "pages/CreateTag"
+  },
+  {
+    "name": "CreateUser",
+    "path": "/CreateUser",
+    "component": "C:\\\\Users\\\\Nspira\\\\Desktop\\\\gg\\\\pages\\\\CreateUser.vue",
+    "chunkName": "pages/CreateUser"
+  },
+  {
+    "name": "LogList",
+    "path": "/LogList",
+    "component": "C:\\\\Users\\\\Nspira\\\\Desktop\\\\gg\\\\pages\\\\LogList.vue",
+    "chunkName": "pages/LogList"
+  },
+  {
+    "name": "UpdateUser",
+    "path": "/UpdateUser",
+    "component": "C:\\\\Users\\\\Nspira\\\\Desktop\\\\gg\\\\pages\\\\UpdateUser.vue",
+    "chunkName": "pages/UpdateUser"
+  },
+  {
+    "name": "UserLog",
+    "path": "/UserLog",
+    "component": "C:\\\\Users\\\\Nspira\\\\Desktop\\\\gg\\\\pages\\\\UserLog.vue",
+    "chunkName": "pages/UserLog"
+  },
+  {
+    "name": "log-id",
+    "path": "/log/:id?",
+    "component": "C:\\\\Users\\\\Nspira\\\\Desktop\\\\gg\\\\pages\\\\log\\\\_id.vue",
+    "chunkName": "pages/log/_id"
+  },
+  {
+    "name": "Tag-id",
+    "path": "/Tag/:id?",
+    "component": "C:\\\\Users\\\\Nspira\\\\Desktop\\\\gg\\\\pages\\\\Tag\\\\_id.vue",
+    "chunkName": "pages/Tag/_id"
+  },
+  {
+    "name": "user-id",
+    "path": "/user/:id?",
+    "component": "C:\\\\Users\\\\Nspira\\\\Desktop\\\\gg\\\\pages\\\\user\\\\_id.vue",
+    "chunkName": "pages/user/_id"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\Users\\\\Nspira\\\\Desktop\\\\gg\\\\pages\\\\index.vue",
+    "chunkName": "pages/index"
+  }
+]
